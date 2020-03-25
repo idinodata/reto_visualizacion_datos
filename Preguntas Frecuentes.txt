@@ -1,0 +1,7 @@
+PREGUNTAS FRECUENTES
+
+1. ¿La información se alimentan de manera diaria?
+RTA//Si los intevalos de actualización son diarios 
+2. ¿La información proviene de BD externas que estan integradas y pueden ser consumidas a traves de una vista?
+RTA// Para el ejercicio del reto la información se alimenta a traves de archivos, no existen BD que esten integradas
+
