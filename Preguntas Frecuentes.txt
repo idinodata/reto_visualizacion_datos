@@ -4,4 +4,10 @@ PREGUNTAS FRECUENTES
 RTA//Si los intevalos de actualización son diarios 
 2. ¿La información proviene de BD externas que estan integradas y pueden ser consumidas a traves de una vista?
 RTA// Para el ejercicio del reto la información se alimenta a traves de archivos, no existen BD que esten integradas
-
+3. ¿A qué se refiere Volumen Salida de la central de abastos, y porque están con diferente hora 6 am y 1 pm?
+RTA//Los volúmenes de salida son las toneladas que salen a otros lugares como departamentos o provincias. Las horas de 6am y 1pm son los cortes de medición de esa salida que hace Centro abastos
+4. ¿a las 6am y 1pm tenemos 817 y 635 Ton. Eso quiere decir la salida total de la central de abastos fue de 1452?
+20:20, Y la diferencia en la entrada y salida debe ser: la entrada - salida a la 1 pm que es la última medida registrada, cierto?
+RTA//El total de salida es la suma en el corte 6am y 1pm. Debe ser diferencia=Total Entrada - Total Salida
+5. Para la entrega se debe crear un branch en el repositorio?
+RTA// Si, se les compartirá un enlace para hacer la respectiva entrega
